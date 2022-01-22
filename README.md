@@ -2,7 +2,7 @@
 # Voice Powered Budget Managment APP
 
 You can control your incomes and expenses in a very detailed way.
-This webapp show your graphs about your money and also you'll get nice graphics for each category.
+This app shows you graphs about your money and also you'll get them splited for category and subcategory.
 
 
 
