@@ -1,17 +1,19 @@
 
 # Voice Powered Budget Managment APP
 
-You can control your incomes and expenses in a very detailed way.
-This app shows you graphs about your money and also you'll get them splited for category and subcategory.
+Welcome! This is a voice powered budget tracking app created using React, Material UI and Speechify that allows you to add income and expenses across a variety of categories.
 
-
-
+The data persists in local storage, and thus, you don't need to worry about authentication or data privacy. It's only limited to your browser.
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/l6iHgFF.png)
 
 
 
+
+## View The Live Deployment
+
+https://voice-powered-budget-tracker.netlify.app/
 
 ## Created With
 
